@@ -44,3 +44,4 @@ while start == True:
     people_list = add_people(int(input("How many people do you want to register? \n")))
     time.sleep(0.5)
     choose_person((input("What person's information do you want?")), people_list)
+    print("thank you!")
